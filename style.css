@@ -869,6 +869,8 @@ h6 {
 		min-height: 88px;
 	}
 	.thumbnail {
+	float: left;
+	position: relative;
 	}
 	.thumbnail a img {
 		padding: 1px;
@@ -935,7 +937,7 @@ h6 {
 	}
 	.article .kicker {
 		font-size: 21px;
-		line-height: 30px;
+		line-height: 32px;
 	}
 	.hangingindent {
 		position: absolute;
