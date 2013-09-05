@@ -28,7 +28,7 @@ register_nav_menu( 'footer', 'Footer Navigation' );
 /* Set image category thumbnail sizes
 ---------------------------------------------- */
 add_theme_support( 'post-thumbnails', array( 'post' ));
-set_post_thumbnail_size( 1024, 200, false );
+set_post_thumbnail_size( 1024, 300, false );
 
 /* Register Flatfile options page
 ---------------------------------------------- */
