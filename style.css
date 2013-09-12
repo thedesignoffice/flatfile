@@ -739,6 +739,10 @@ h6 {
 .excerpt .inner {
 	overflow: hidden;
 }
+.excerpt .inner img {
+	height: 150px;
+	width: auto;
+}
 
 /* footer styles
 ---------------------------------------------- */
